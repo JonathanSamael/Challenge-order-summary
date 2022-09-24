@@ -1,0 +1,7 @@
+:root {
+    --box-price:  hsl(225, 100%, 94%);
+    --btn-blue: hsl(245, 75%, 52%);
+    --bg-container: hsl(225, 100%, 98%);
+    --text-description: hsl(224, 23%, 55%);
+    --text-title: hsl(223, 47%, 23%);
+}
